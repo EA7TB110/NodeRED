@@ -1,0 +1,16 @@
+Foro de discusion:
+  https://groups.io/g/nodered-hamradio
+  
+NodeRed y flexradio
+  node-red-contrib-flexradio
+  https://flows.nodered.org/node/node-red-contrib-flexradio
+
+Remote operating and Node Red
+  https://community.flexradio.com/discussion/7859294/remote-operating-and-node-red
+
+node-red-contrib-wsjt-x
+  https://flows.nodered.org/node/node-red-contrib-wsjt-x
+
+
+
+
